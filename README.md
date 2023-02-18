@@ -1,7 +1,6 @@
 - Hi I'm Keith 
--I’m interested machine learning/artificial intelligence. 
--I’m currently finishing my Bachelors in computer science to transition into a software engineering position.
- 
+-I’m interested machine learning/artificial intelligence and software engineering. 
+-I’m currently working for AWS in the Health AI team as an SDE apprentice. 
 -I can be reached at mullafarry1226@gmail.com
 
 <!---
